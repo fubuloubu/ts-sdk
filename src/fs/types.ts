@@ -8,7 +8,7 @@ import { Maybe } from '../common/types'
 export type FileSystemOptions = {
   version?: SemVer
   keyName?: string
-  rootDID?: string
+  rootDid?: string
 }
 
 
